@@ -2,6 +2,8 @@
 En la cuarta y última actividad dirigida, utilizaremos “Pandas”, una librería de Phython, para trabajar con datos de la Covid-19.
 Esta es la URL: https://api.covid19api.com/countries
 
+El ejercicio completo se puede encontrar en formato de cuaderno de Jupyter [en esta dirección](docs/ad4.ipynb).
+
 ## Instalación de librerías:
 Para la instalación de las librerías usaremos la función !pip. La excavación se debe a que estamos ejecutando bash.
 
