@@ -4,4 +4,4 @@ Repositorio que contiene las actividades dirigidas y el trabajo final de la clas
 * [Actividad dirigida 2](https://github.com/erika-martin/2022online-erika-martin/blob/main/ad2.md)
 * [Actividad dirigida 3](https://github.com/erika-martin/2022online-erika-martin/blob/main/ad3.md)
 * [Actividad Dirigida 4](https://github.com/erika-martin/2022online-erika-martin/blob/main/ad4.md)
-* [Trabajo final](https://github.com/erika-martin/2022online-erika-martin/blob/main/trabajo-final.md)
+* [Trabajo final](https://github.com/erika-martin/2022online-erika-martin/blob/main/metodologia.md)
